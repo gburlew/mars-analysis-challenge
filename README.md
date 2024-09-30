@@ -1,6 +1,6 @@
 # mars-analysis-challenge
 
-For this challenge, I got permission from my advisor to use Google Colab instead of jupyter notebook because of previous difficulties I have had while trying to correctly install and use ChromeDriver. Therefore, in some parts of the notebooks, there are some commands that will not be seen or used, such as browser.quit() because it wasn't necessary for me to use.
+For this challenge, I got permission from my advisor to use Google Colab instead of jupyter notebook because of previous difficulties I have had while trying to correctly install and use ChromeDriver. Therefore, in some parts of the notebooks, there are some commands that will not be seen or used, such as browser.quit() because it wasn't necessary for me to use in order to get the desired output.
 
 ## Outside Help
 
